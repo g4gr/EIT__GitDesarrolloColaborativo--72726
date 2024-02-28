@@ -41,6 +41,9 @@ git add [ nombre del archivo ] > Agregar archivos a Git de: fuera del flujo de t
 git add . > Agregan archivos a **todo** Git de: fuera del flujo de trabajo a la **Staging Area**.
 
 git status > Conocer el estado de los arhivos dentro del repositorio.
+git log > Muestra los commits del repositorio de manera breve.
+git show > Muestra la informacion detallada relacionada con los commits.
+git commit --amend > Reemplazar el commit anterior por un nuevo (OJO, cambia el HASH)
 
 ---
 Texto que se agrega a un commit:
