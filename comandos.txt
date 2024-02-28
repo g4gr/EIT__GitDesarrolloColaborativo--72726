@@ -42,3 +42,20 @@ git add . > Agregan archivos a **todo** Git de: fuera del flujo de trabajo a la 
 
 git status > Conocer el estado de los arhivos dentro del repositorio.
 
+---
+Texto que se agrega a un commit:
+
+Estructura :
+`[ Texto ]( [ Archivos ] ): [ Descripcion del commit, hasta 50 caracteres ].`
+Ejemplo :
+`DOCS (README.md): Creacion de documentacion.`
+
+Lista de texto:
+
+- Feat : Un nuevo complemento o funcion.
+- Fix : Un problema o bug.
+- Docs : Documentacion de una mejor comprension del programa.
+- Style : Codigo de estilo.
+- Refactor : Codigo refactorizado.
+- Test : Codigo de prueba.
+- `Perf` : codigo de mejoramiento de rendimiento.
