@@ -1,9 +1,16 @@
 @charset 'UTF-8';
 
 :root {
+  --f_fontSize: 18px;
 }
 
 html {
+  font-size: var(--f_fontSize);
+}
+
+/* Body */
+.Body {
+  font-size: clamp(100%, 1rem + 1.2vw, 25px);
 }
 
 /* Header */
