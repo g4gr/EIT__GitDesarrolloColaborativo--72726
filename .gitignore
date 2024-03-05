@@ -1,3 +1,8 @@
+# Ignorar poque si!
+*.xls
+*_holamundo_*
+
+
 # Logs
 logs
 *.log
