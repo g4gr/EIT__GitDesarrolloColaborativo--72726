@@ -1,1 +1,4 @@
-# EIT__GitDesarrolloColaborativo--72726hola soy franco
+# EIT\_\_GitDesarrolloColaborativo--72726ola
+
+'Hola soy Franco!'
+'Hola soy Gabriel!'
